@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1782750784 source:/home/gabriel/CPP/arrayDinamico/main.cpp
+	<iostream>
+	<Array.hpp>
+
+1782748984 /home/gabriel/CPP/arrayDinamico/include/Array.hpp
+	<iostream>
+
